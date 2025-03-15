@@ -13,4 +13,4 @@ Nostra is an online store that offers a wide range of shirts and t-shirts. The w
 
 - **HTML**: For structuring the web pages.
 - **CSS**: For styling the website and making it visually appealing.
-- **JavaScript**: For enhancing some interactive features like cart behavior.
+- **JavaScript**: For enhancing some interactive features like closing a popup window.
